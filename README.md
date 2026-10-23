@@ -1,6 +1,6 @@
 # AI shorts generator
 
-![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![Stars](https://img.shields.io/github/stars/mushigaite/short-video-maker?style=social) ![Forks](https://img.shields.io/github/forks/mushigaite/short-video-maker?style=social)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue) ![Stars](https://img.shields.io/github/stars/kdog57me/short-video-maker?style=social) ![Forks](https://img.shields.io/github/forks/kdog57me/short-video-maker?style=social)
 
 A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free. 
 
@@ -47,7 +47,7 @@ A free open-source project designed to turn youtube-videos into viral short vide
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/mushigaite/short-video-generator-AI.git
+git clone https://github.com/kdog57me/short-video-generator-AI.git
 cd short-video-generator-AI
 ```
 
